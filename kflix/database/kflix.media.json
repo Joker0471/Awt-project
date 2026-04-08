@@ -1,0 +1,1261 @@
+[{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791564"
+  },
+  "name": "Red Notice",
+  "type": "movie",
+  "genre": "Action Comedy",
+  "platform": "NETFLIX",
+  "img": "https://wallpapercave.com/wp/wp10255107.jpg",
+  "video": "blob:http://localhost:5173/6dbe58cb-16aa-493c-b7d1-778668a1109c",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-07T10:30:40.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791565"
+  },
+  "name": "Gray Man",
+  "type": "movie",
+  "genre": "Action Spy",
+  "platform": "NETFLIX",
+  "img": "https://thepopblogph.com/wp-content/uploads/2022/07/tv-film-netflix-grey-man-new-keyart.jpg",
+  "video": "/videos/movies/gray-man.mp4",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-08T09:19:38.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791566"
+  },
+  "name": "Adam Project",
+  "type": "movie",
+  "genre": "Sci-Fi Adventure",
+  "platform": "NETFLIX",
+  "img": "https://kelvinsmusings.com/wp-content/uploads/2022/03/images-4.jpeg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791567"
+  },
+  "name": "Damsel",
+  "type": "movie",
+  "genre": "Fantasy Action",
+  "platform": "NETFLIX",
+  "img": "https://bsmknighterrant.org/wp-content/uploads/2024/04/Damsel.png",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791568"
+  },
+  "name": "Heart Of Stone",
+  "type": "movie",
+  "genre": "Spy Thriller",
+  "platform": "NETFLIX",
+  "img": "https://i.ytimg.com/vi/k_Ab5W2UkS4/maxresdefault.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791569"
+  },
+  "name": "Extraction",
+  "type": "movie",
+  "genre": "Action Thriller",
+  "platform": "NETFLIX",
+  "img": "https://i.pinimg.com/736x/75/b5/70/75b570731999923833f5d732c8b04cf6.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079156a"
+  },
+  "name": "Extraction 2",
+  "type": "movie",
+  "genre": "Action Thriller",
+  "platform": "NETFLIX",
+  "img": "https://www.heavenofhorror.com/wp-content/uploads/2023/06/extraction-2-netflix-review-1200x675.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079156b"
+  },
+  "name": "Baby Driver",
+  "type": "movie",
+  "genre": "Crime Action",
+  "platform": "PRIME",
+  "img": "https://m.media-amazon.com/images/S/pv-target-images/da9c1bd15d59ae28f965577ad74b8a3ea8e4ecf97af2221ae567c5e69d23636b.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079156c"
+  },
+  "name": "Wanted",
+  "type": "movie",
+  "genre": "Action Thriller",
+  "platform": "PRIME",
+  "img": "https://image.tmdb.org/t/p/original/4pBHu4jllypZBrrlik5gtISABF9.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079156d"
+  },
+  "name": "John Wick",
+  "type": "movie",
+  "genre": "Action Thriller",
+  "platform": "PRIME",
+  "img": "https://images2.alphacoders.com/550/550911.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079156e"
+  },
+  "name": "The Shawshank Redemption",
+  "type": "movie",
+  "genre": "Drama",
+  "platform": "PRIME",
+  "img": "https://m.media-amazon.com/images/S/pv-target-images/851ab8ca1caf85fc12dbf43c08d56b63af948c4dd8ceba2992ee487234abd9bc.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079156f"
+  },
+  "name": "Oppenheimer",
+  "type": "movie",
+  "genre": "Historical Drama",
+  "platform": "PRIME",
+  "img": "https://m.media-amazon.com/images/S/pv-target-images/f716021a712441c8fdccddc9468e301e4cdcb18136b028c32a6d8bb42a41a4e1.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791570"
+  },
+  "name": "Lucy",
+  "type": "movie",
+  "genre": "Sci-Fi Thriller",
+  "platform": "PRIME",
+  "img": "https://my.kapook.com/imagescontent/fb_img/108/s_180565_8188.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791571"
+  },
+  "name": "American Psycho",
+  "type": "movie",
+  "genre": "Psychological Thriller",
+  "platform": "PRIME",
+  "img": "https://m.media-amazon.com/images/S/pv-target-images/0083e2b6fbdc272e546b0e0e7e5388dd132c7104a938fc860cd45c5188164656.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791572"
+  },
+  "name": "Iron Man",
+  "type": "movie",
+  "genre": "Super Hero",
+  "platform": "MARVEL",
+  "img": "https://baylorlariat.com/wp-content/uploads/2018/02/Iron-Man-Movie_Poster_2008.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791573"
+  },
+  "name": "Captain America",
+  "type": "movie",
+  "genre": "Super Hero",
+  "platform": "MARVEL",
+  "img": "https://m.media-amazon.com/images/I/71sNQzzr3aS._UF1000,1000_QL80_.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791574"
+  },
+  "name": "The Incredible Hulk",
+  "type": "movie",
+  "genre": "Superhero Action",
+  "platform": "MARVEL",
+  "img": "https://images2.alphacoders.com/112/thumb-1920-1120632.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791575"
+  },
+  "name": "The Amazing Spider-Man 2",
+  "type": "movie",
+  "genre": "Super Hero",
+  "platform": "MARVEL",
+  "img": "https://wallpaperswide.com/download/the_amazing_spiderman_2-wallpaper-1920x1080.jpg",
+  "video": "/videos/movies/amazing-spiderman.mp4",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791576"
+  },
+  "name": "Thor: Ragnarok",
+  "type": "movie",
+  "genre": "Superhero Fantasy",
+  "platform": "MARVEL",
+  "img": "https://images8.alphacoders.com/112/1120623.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791577"
+  },
+  "name": "Black Panther",
+  "type": "movie",
+  "genre": "Superhero Sci-Fi",
+  "platform": "MARVEL",
+  "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2018/02/Black-Panther-Poster-Title.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791578"
+  },
+  "name": "Eternal Sunshine",
+  "type": "movie",
+  "genre": "Romantic Drama",
+  "platform": "ROMANTIC",
+  "img": "https://shatpod.com/movies/wp-content/uploads/Eternal-Sunshine-of-the-Spotless-Mind-Poster-2004.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791579"
+  },
+  "name": "La La Land",
+  "type": "movie",
+  "genre": "Romantic Musical",
+  "platform": "ROMANTIC",
+  "img": "https://i.pinimg.com/736x/0e/84/d5/0e84d580eb24bffc3dabc017412d7a4d.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079157a"
+  },
+  "name": "The Notebook",
+  "type": "movie",
+  "genre": "Romance Drama",
+  "platform": "ROMANTIC",
+  "img": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/fe/b8/37/feb837a3-d766-3273-9c00-6d790a41e34e/pr_source.lsr/1200x675.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079157b"
+  },
+  "name": "500 Days of Summer",
+  "type": "movie",
+  "genre": "Romantic Comedy",
+  "platform": "ROMANTIC",
+  "img": "https://img.englishcinemakyiv.com/LYfCi0dsT2NXPoyTvbBt9wmYLh6XGueJTBmXtqJL7O8/resize:fill:800:450:1:0/gravity:sm/aHR0cHM6Ly9leHBhdGNpbmVtYXByb2QuYmxvYi5jb3JlLndpbmRvd3MubmV0L2ltYWdlcy80YjYzYTZlNy1lMWYxLTQ1ZTctOTdhOC04Y2JiNTJlN2E2NTAuanBn.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079157c"
+  },
+  "name": "My Fault",
+  "type": "movie",
+  "genre": "Teen Romance",
+  "platform": "ROMANTIC",
+  "img": "https://wallpapercave.com/wp/wp13110627.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079157d"
+  },
+  "name": "Fifty Shades of Grey",
+  "type": "movie",
+  "genre": "Romance Drama",
+  "platform": "ROMANTIC",
+  "img": "https://c4.wallpaperflare.com/wallpaper/900/598/454/movie-fifty-shades-of-grey-dakota-johnson-jamie-dornan-wallpaper-preview.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079157e"
+  },
+  "name": "The Dark Knight",
+  "type": "movie",
+  "genre": "Superhero",
+  "platform": "DC",
+  "img": "https://wallpaperswide.com/download/the_dark_knight_movie-wallpaper-1600x900.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079157f"
+  },
+  "name": "Man of Steel",
+  "type": "movie",
+  "genre": "Superhero",
+  "platform": "DC",
+  "img": "https://i.ebayimg.com/images/g/gtsAAOxyVaBSzhj9/s-l1200.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791580"
+  },
+  "name": "Batman VS Superman",
+  "type": "movie",
+  "genre": "Superhero",
+  "platform": "DC",
+  "img": "https://wallpaperswide.com/download/batman_vs_superman_logo-wallpaper-1024x576.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791581"
+  },
+  "name": "Shazam",
+  "type": "movie",
+  "genre": "Superhero",
+  "platform": "DC",
+  "img": "https://w0.peakpx.com/wallpaper/721/772/HD-wallpaper-new-shazam-movie-poster.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791582"
+  },
+  "name": "Black Adam",
+  "type": "movie",
+  "genre": "Superhero",
+  "platform": "DC",
+  "img": "https://images4.alphacoders.com/129/1292443.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791583"
+  },
+  "name": "Joker",
+  "type": "movie",
+  "genre": "Superhero",
+  "platform": "DC",
+  "img": "https://m.media-amazon.com/images/S/pv-target-images/97da6d6bc6641ade91c5510f6539d10c46f3dbc367ba03718eb4db08ff968e3f.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791584"
+  },
+  "name": "The Shawshank Redemption",
+  "type": "movie",
+  "genre": "Drama",
+  "platform": "TOP",
+  "img": "https://m.media-amazon.com/images/S/pv-target-images/851ab8ca1caf85fc12dbf43c08d56b63af948c4dd8ceba2992ee487234abd9bc.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791585"
+  },
+  "name": "The Godfather",
+  "type": "movie",
+  "genre": "Crime Drama",
+  "platform": "TOP",
+  "img": "https://images5.alphacoders.com/131/thumb-1920-1315822.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791586"
+  },
+  "name": "Fight Club",
+  "type": "movie",
+  "genre": "Psychological Thriller",
+  "platform": "TOP",
+  "img": "https://vistapointe.net/images/fight-club-1.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791587"
+  },
+  "name": "Inception",
+  "type": "movie",
+  "genre": "Sci-Fi Thriller",
+  "platform": "TOP",
+  "img": "https://wallpaperbat.com/img/726904-inception-wallpaper-comics-hq-inception-picture-4k-wallpaper-2019.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791588"
+  },
+  "name": "Interstellar",
+  "type": "movie",
+  "genre": "Sci-Fi Drama",
+  "platform": "TOP",
+  "img": "https://wallpapercave.com/wp/wp11717712.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791589"
+  },
+  "name": "Pulp Fiction",
+  "type": "movie",
+  "genre": "Crime Drama",
+  "platform": "TOP",
+  "img": "https://wallpapercave.com/wp/wp7665508.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079158a"
+  },
+  "name": "Forrest Gump",
+  "type": "movie",
+  "genre": "Drama Comedy",
+  "platform": "TOP",
+  "img": "https://wallpapercat.com/w/full/4/5/8/139214-2560x1440-desktop-hd-forrest-gump-wallpaper-photo.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079158b"
+  },
+  "name": "Kung Fu Panda",
+  "type": "movie",
+  "genre": "Animated Action Comedy",
+  "platform": "DREAMWORKS",
+  "img": "https://w0.peakpx.com/wallpaper/701/571/HD-wallpaper-kung-fu-panda.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079158c"
+  },
+  "name": "Shrek",
+  "type": "movie",
+  "genre": "Animated Fantasy Comedy",
+  "platform": "DREAMWORKS",
+  "img": "https://www.kindpng.com/picc/m/49-494564_shrek-shrek-movie-poster-landscape-hd-png-download.png",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079158d"
+  },
+  "name": "Shrek 2",
+  "type": "movie",
+  "genre": "Animated Fantasy Comedy",
+  "platform": "DREAMWORKS",
+  "img": "https://wallpapersok.com/images/hd/shrek-2-poster-main-cast-1n0p7vu78dwbr3m0.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079158e"
+  },
+  "name": "Puss In Boots",
+  "type": "movie",
+  "genre": "Animated Adventure Comedy",
+  "platform": "DREAMWORKS",
+  "img": "https://hd.wallpaperswide.com/thumbs/puss_in_boots_3d-t2.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079158f"
+  },
+  "name": "Transformers",
+  "type": "movie",
+  "genre": "Sci-Fi Action",
+  "platform": "DREAMWORKS",
+  "img": "https://w0.peakpx.com/wallpaper/67/356/HD-wallpaper-transformers-transformers-1.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791590"
+  },
+  "name": "Gladiator",
+  "type": "movie",
+  "genre": "Historical Action Drama",
+  "platform": "DREAMWORKS",
+  "img": "https://pastposters.com/cdn/shop/files/gladiator-cinema-quad-movie-poster-_1_82369269-7d0e-4fe4-ac23-fd9b24887f05.jpg?v=1746727192",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791591"
+  },
+  "name": "Stranger Things",
+  "type": "show",
+  "genre": "Sci-Fi",
+  "platform": "NETFLIX",
+  "img": "https://a-static.besthdwallpaper.com/stranger-things-s1-on-netflix-wallpaper-1680x1050-100055_5.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791592"
+  },
+  "name": "Daredevil",
+  "type": "show",
+  "genre": "Superhero Action Drama",
+  "platform": "NETFLIX",
+  "img": "https://w0.peakpx.com/wallpaper/148/621/HD-wallpaper-tv-show-daredevil.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791593"
+  },
+  "name": "Money Heist",
+  "type": "show",
+  "genre": "Crime Thriller",
+  "platform": "NETFLIX",
+  "img": "https://content.tupaki.com/twdata/2021/0921/news/Money-Heist-Season-5-Volume-1-Garners-Rave-Reviews-1630723090-1920.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791594"
+  },
+  "name": "Squid Game",
+  "type": "show",
+  "genre": "Survival Drama",
+  "platform": "NETFLIX",
+  "img": "https://www.koimoi.com/wp-content/new-galleries/2021/10/squid-game-director-denies-claims-of-the-show-being-a-ripoff-after-people-point-of-similarities-with-a-japanese-film-001.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791595"
+  },
+  "name": "Dark",
+  "type": "show",
+  "genre": "Mystery Sci-Fi",
+  "platform": "NETFLIX",
+  "img": "https://www.dark.netflix.io/share/global.png",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791596"
+  },
+  "name": "Breaking Bad",
+  "type": "show",
+  "genre": "Crime Drama",
+  "platform": "NETFLIX",
+  "img": "https://wallpapercave.com/wp/wp6892113.png",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791597"
+  },
+  "name": "Narcos",
+  "type": "show",
+  "genre": "Crime Biography",
+  "platform": "NETFLIX",
+  "img": "https://w0.peakpx.com/wallpaper/97/700/HD-wallpaper-tv-show-narcos.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791598"
+  },
+  "name": "The Boys",
+  "type": "show",
+  "genre": "Superhero Action",
+  "platform": "PRIME",
+  "img": "https://4kwallpapers.com/images/wallpapers/the-boys-season-4-1920x1080-17287.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed40791599"
+  },
+  "name": "Peaky Blinders",
+  "type": "show",
+  "genre": "Historical Crime Drama",
+  "platform": "PRIME",
+  "img": "https://m.media-amazon.com/images/S/pv-target-images/3edfb7e426426496d2d39167cc805674f7228d9e036caeffb6d8c65613ab821e.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079159a"
+  },
+  "name": "Invincible",
+  "type": "show",
+  "genre": "Superhero Animation",
+  "platform": "PRIME",
+  "img": "https://4kwallpapers.com/images/wallpapers/invincible-season-1-2560x1440-13454.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079159b"
+  },
+  "name": "Mirzapur",
+  "type": "show",
+  "genre": "Action Crime",
+  "platform": "PRIME",
+  "img": "https://m.media-amazon.com/images/I/91Wr90x8YmL.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079159c"
+  },
+  "name": "Dexter",
+  "type": "show",
+  "genre": "Crime Drama",
+  "platform": "PRIME",
+  "img": "https://m.media-amazon.com/images/S/pv-target-images/843e5bf5c94bb820756c08650255035729f91ec2cca2e03eb2fcf4464bb6c714.jpg",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079159d"
+  },
+  "name": "The Family Man",
+  "type": "show",
+  "genre": "Action Spy",
+  "platform": "PRIME",
+  "img": "https://m.media-amazon.com/images/S/pv-target-images/b317763387b2a8f92aa35d16f87b875fb54437da752eafc87a4939e6b7cb330b.png",
+  "video": "",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3f65db749ffed4079159e"
+  },
+  "name": "The Summer",
+  "type": "show",
+  "genre": "Romantic",
+  "platform": "PRIME",
+  "img": "https://m.media-amazon.com/images/S/pv-target-images/d602220fba5da98ba7f6e03bd1f3d68fd88db7dc0e2a4b338dabc2a29b177ff2.jpg",
+  "video": "/videos/shows/the summer.mp4",
+  "description": "",
+  "rating": 0,
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T18:07:25.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d5101ce1f5a2ca88c1092c"
+  },
+  "name": "Dhurandhar",
+  "type": "movie",
+  "genre": "Action",
+  "platform": "NETFLIX",
+  "img": "https://assets-in.bmscdn.com/discovery-catalog/events/et00452447-vfxvtuhwgs-landscape.jpg",
+  "video": "",
+  "description": "",
+  "releaseYear": 2025,
+  "rating": 8.3,
+  "status": "Active",
+  "createdAt": {
+    "$date": "2026-04-07T14:09:32.697Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-07T14:09:32.697Z"
+  },
+  "__v": 0
+}]

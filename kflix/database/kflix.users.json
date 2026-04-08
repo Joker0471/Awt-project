@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "69d4862e98e3cdb7d626b812"
+  },
+  "username": "Darsh",
+  "email": "darsh@gmail.com",
+  "password": "$2a$12$AYtgZ.WOkvwTOW1MQMsSiu2fG7NEMC2CF1.PO4x1el.06cpwo2Qse",
+  "role": "admin",
+  "status": "active",
+  "watchlist": [],
+  "createdAt": {
+    "$date": "2026-04-07T04:21:02.459Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-08T09:19:40.346Z"
+  },
+  "__v": 0,
+  "refreshToken": null
+},
+{
+  "_id": {
+    "$oid": "69d507b6e1f5a2ca88c1082d"
+  },
+  "username": "janvi",
+  "email": "ji@gmail.com",
+  "password": "$2a$12$goTleQxY6t92g4X38F0QSeS5L3YSdaNvEyD4ftoybT/w.MlzZD.QO",
+  "role": "premium",
+  "status": "active",
+  "watchlist": [],
+  "createdAt": {
+    "$date": "2026-04-07T13:33:42.644Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-07T13:37:18.543Z"
+  },
+  "__v": 0,
+  "refreshToken": null
+},
+{
+  "_id": {
+    "$oid": "69d507f5e1f5a2ca88c10835"
+  },
+  "username": "harsh",
+  "email": "hd@gmail.com",
+  "password": "$2a$12$nzm2RNtF1OOcyYsL0gU4I.tlJBFG9nCHHyluzbWag5zYz0bJJrWRy",
+  "role": "user",
+  "status": "suspended",
+  "watchlist": [],
+  "createdAt": {
+    "$date": "2026-04-07T13:34:45.738Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-07T13:36:58.660Z"
+  },
+  "__v": 0,
+  "refreshToken": null
+},
+{
+  "_id": {
+    "$oid": "69d5084be1f5a2ca88c1083d"
+  },
+  "username": "riya",
+  "email": "riya@gmail.com",
+  "password": "$2a$12$xeEcPrMntk08f3uwRXtkCOf23wwSsXEpXIiw5CQrCSWTtfwFomACS",
+  "role": "user",
+  "status": "inactive",
+  "watchlist": [],
+  "createdAt": {
+    "$date": "2026-04-07T13:36:11.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-07T13:38:24.987Z"
+  },
+  "__v": 0,
+  "refreshToken": null
+},
+{
+  "_id": {
+    "$oid": "69d50abfe1f5a2ca88c108a8"
+  },
+  "username": "user",
+  "email": "user@gmail.com",
+  "password": "$2a$12$j5ELUclq8HD7L372IE1x3eU6g8AdJ7U9527LFIKzhcgnjpxrxiMHm",
+  "role": "user",
+  "status": "active",
+  "watchlist": [],
+  "createdAt": {
+    "$date": "2026-04-07T13:46:39.898Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-08T09:20:07.018Z"
+  },
+  "__v": 0,
+  "refreshToken": null
+}]
